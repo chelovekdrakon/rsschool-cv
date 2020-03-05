@@ -26,3 +26,11 @@
     * Databases: MongoDB, Realm
     * JS Frameworks: React, React Native
     * ...
+
+
+### Code examples
+* private
+
+
+### Experience
+* employeed from March of 2018
